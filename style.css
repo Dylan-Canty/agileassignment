@@ -4,3 +4,11 @@
     background: #F29130; 
     color: #fff;
 }
+
+#heading {
+    color: indigo;
+}
+
+#content {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
